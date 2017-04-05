@@ -18,6 +18,9 @@ ms.author: billmath
 
 ---
 # Connect Active Directory with Azure Active Directory.
+> [!div class="op_single_selector"]
+> - [Chinese](/zh-cn/testHeader/active-directory/active-directory-aadconnect)
+
 Azure AD Connect will integrate your on-premises directories with Azure Active Directory. This allows you to provide a common identity for your users for Office 365, Azure, and SaaS applications integrated with Azure AD. This topic will guide you through the planning, deployment, and operation steps. It is a collection of links to the topics related to this area.
 
 > [!IMPORTANT]
